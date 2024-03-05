@@ -3,7 +3,10 @@ RENCANA KONTEN ARYA
 - Javascript
   * ES6
   * Framework Javavscript
+    ^ Vuew
 - Struktur Data Dasar
 - PHP Frameworks
+  ^ Laraevel
 - Interview
 - Vlogs
+- Python
