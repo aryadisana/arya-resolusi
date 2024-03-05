@@ -4,6 +4,7 @@ RENCANA KONTEN ARYA
   * ES6
   * Framework Javavscript
     ^ Vuew
+    ^ React
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laraevel
